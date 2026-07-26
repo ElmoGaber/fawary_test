@@ -7,6 +7,7 @@ Console Maven application demonstrating an object-oriented checkout flow.
 ```bash
 mvn clean compile exec:java
 ```
+<img width="999" height="574" alt="image" src="https://github.com/user-attachments/assets/943a3f4d-b0e8-4fa8-a9ed-f44eacd46585" />
 
 ## Structure
 
