@@ -1,2 +1,1 @@
-# fawary_test
-Shipping is a fixed 30-unit fee whenever at least one item requires shipping. Weights are stored in grams; money uses `double` to match the challenge statement. Products without an expiration date never expire. Checkout validates all items and balance before changing stock or balance.
+<img width="999" height="574" alt="image" src="https://github.com/user-attachments/assets/fbc8945e-c7b7-496b-a6d4-dc2a7c9dc18f" />
